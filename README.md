@@ -1,6 +1,6 @@
 ## 我是马亮南生
 
-- 🏡 作品：<a href="https://github.com/maliangnansheng/bbs-ssm" target="_blank">南生论坛</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
+- 🏡 作品：<a href="https://github.com/maliangnansheng/bbs-ssm" target="_blank">南生论坛</a> | <a href="https://github.com/maliangnansheng/bbs-ssm" target="_blank">求星星 ✨</a>
 - 🐧  QQ：924818949
 - 💬 微信：maliangnansheng
 
