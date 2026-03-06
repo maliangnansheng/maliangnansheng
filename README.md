@@ -1,6 +1,6 @@
 ## 我是马亮南生
 
-- 🏡 作品：<a href="https://github.com/maliangnansheng/bbs-ssm" target="_blank">南生论坛(SSM) ✨</a> | <a href="https://github.com/maliangnansheng/bbs-springboot" target="_blank">南生论坛(SpringBoot+Vue) ✨</a>
+- 🏡 作品：<a href="https://github.com/maliangnansheng/bbs-springboot" target="_blank">南生论坛（SpringBoot3+Vue）✨</a> | <a href="https://github.com/maliangnansheng/bbs-ssm" target="_blank">南生论坛（SSM）✨</a>
 - 🐧  QQ：924818949
 - 💬 微信：maliangnansheng
 
